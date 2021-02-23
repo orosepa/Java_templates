@@ -1,4 +1,4 @@
-package com.temp;
+package com.task1;
 
 import java.util.Scanner;
 import java.lang.String;
