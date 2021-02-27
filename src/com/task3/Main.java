@@ -44,6 +44,7 @@ public class Main {
 
         Thread.sleep(3000);
 
-
+        System.out.println(set.size());
+        System.out.println(list.size());
     }
 }
