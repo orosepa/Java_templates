@@ -83,6 +83,5 @@ public class Main {
         System.out.println("St_1\tSt_2\tSt_3\tSt_4\tSt_5");
         System.out.print(checkInstance(s11, s12) + "\t" + checkInstance(s21, s22) + "\t" + checkInstance(s31, s32) + "\t" +
                 checkInstance(s41, s42) + "\t" + checkInstance(s51, s52) + "\t");
-
     }
 }
